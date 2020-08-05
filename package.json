@@ -1,0 +1,24 @@
+{
+  "name": "simple-WebRTC-videochat",
+  "version": "1.0.0",
+  "description": "Simple video chat web app made with Node.js using webrtc and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shantanu45/simple-WebRTC-videochat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shantanu45/simple-WebRTC-videochat/issues"
+  },
+  "homepage": "https://github.com/Shantanu45/simple-WebRTC-videochat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
